@@ -9,5 +9,6 @@
 	"demo_enabled_v8": false,
 	"demo_enabled_v9": false,
 	"demo_enabled_v10": false,
-	"demo_enabled_v11": false
+	"demo_enabled_v11": false,
+	"demo_enabled_v12": true
 }
