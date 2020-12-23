@@ -10,6 +10,6 @@
 	"demo_enabled_v9": false,
 	"demo_enabled_v10": false,
 	"demo_enabled_v11": false,
-	"demo_enabled_v12": false
-	"demo_enabled_v13": true
+	"demo_enabled_v12": false,
+	"demo_enabled_v13": false
 }
