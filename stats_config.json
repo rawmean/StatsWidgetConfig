@@ -4,5 +4,6 @@
 	"demo_enabled_v3": false,
 	"demo_enabled_v4": false,
 	"demo_enabled_v5": false,
-	"demo_enabled_v6": false
+	"demo_enabled_v6": false,
+	"demo_enabled_v7": true
 }
