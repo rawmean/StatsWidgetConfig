@@ -12,5 +12,6 @@
 	"demo_enabled_v11": false,
 	"demo_enabled_v12": false,
 	"demo_enabled_v14": false,
-	"demo_enabled_v15": false
+	"demo_enabled_v15": false,
+	"demo_enabled_v16": true
 }
