@@ -19,5 +19,7 @@
 	"demo_enabled_v19": false,
 	"demo_enabled_v20": false,
 	"demo_enabled_v21": false,
-	"demo_enabled_v22": true
+	"demo_enabled_v22": false,
+	"demo_enabled_v23": false,
+	"shouldDoPinning": true
 }
