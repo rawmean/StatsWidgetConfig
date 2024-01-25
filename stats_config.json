@@ -21,6 +21,7 @@
 	"demo_enabled_v21": false,
 	"demo_enabled_v22": false,
 	"demo_enabled_v23": false,
-	"demo_enabled_v24": true,
+	"demo_enabled_v24": false,
+	"demo_enabled_v25": true,
 	"shouldDoPinning": true
 }
