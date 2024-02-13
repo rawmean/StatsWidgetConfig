@@ -23,6 +23,6 @@
 	"demo_enabled_v23": false,
 	"demo_enabled_v24": false,
 	"demo_enabled_v25": false,
-	"demo_enabled_v25": true,
+	"demo_enabled_v25": false,
 	"shouldDoPinning": true
 }
