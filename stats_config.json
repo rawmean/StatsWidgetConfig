@@ -26,6 +26,6 @@
 	"demo_enabled_v26": false,
 	"demo_enabled_v27": false,
 	"demo_enabled_v28": false,
-	"demo_enabled_v29": true,
+	"demo_enabled_v29": false,
 	"shouldDoPinning": true
 }
