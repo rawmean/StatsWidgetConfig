@@ -29,6 +29,6 @@
 	"demo_enabled_v29": false,
 	"demo_enabled_v30": false,
 	"demo_enabled_v31": false,
-	"demo_enabled_v32": true,
+	"demo_enabled_v32": false,
 	"shouldDoPinning": true
 }
