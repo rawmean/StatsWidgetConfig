@@ -32,5 +32,6 @@
 	"demo_enabled_v32": false,
 	"demo_enabled_v33": false,
 	"demo_enabled_v34": false,
+	"demo_enabled_v35": true,
 	"shouldDoPinning": true
 }
