@@ -35,6 +35,7 @@
 	"demo_enabled_v35": false,
 	"demo_enabled_v36": false,
 	"demo_enabled_v37": false,
-	"demo_enabled_v38": true,
+	"demo_enabled_v38": false,
+	"demo_enabled_v39": true,
 	"shouldDoPinning": true
 }
