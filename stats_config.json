@@ -40,6 +40,7 @@
 	"demo_enabled_v40": false,
 	"demo_enabled_v41": false,
 	"demo_enabled_v42": false,
-	"demo_enabled_v43": true,
+	"demo_enabled_v43": false,
+	"demo_enabled_v44": true,
 	"shouldDoPinning": true
 }
