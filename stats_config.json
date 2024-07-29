@@ -43,6 +43,6 @@
 	"demo_enabled_v43": false,
 	"demo_enabled_v44": false,
 	"demo_enabled_v45": false,
-	"demo_enabled_v46": true,
+	"demo_enabled_v46": false,
 	"shouldDoPinning": true
 }
