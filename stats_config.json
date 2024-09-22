@@ -48,6 +48,7 @@
 	"demo_enabled_v48": false,
 	"demo_enabled_v49": false,
 	"demo_enabled_v50": false,
-	"demo_enabled_v51": true,
+	"demo_enabled_v51": false,
+	"demo_enabled_v52": true,
 	"shouldDoPinning": true
 }
