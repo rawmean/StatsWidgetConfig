@@ -50,5 +50,5 @@
 	"demo_enabled_v50": false,
 	"demo_enabled_v51": false,
 	"demo_enabled_v52": true,
-	"shouldDoPinning": true
+	"shouldDoPinning": false
 }
