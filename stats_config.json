@@ -50,7 +50,7 @@
 	"demo_enabled_v50": false,
 	"demo_enabled_v51": false,
 	"demo_enabled_v52": false,
-	"demo_enabled_v53": true,
+	"demo_enabled_v53": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": true
 }
