@@ -51,5 +51,6 @@
 	"demo_enabled_v51": false,
 	"demo_enabled_v52": false,
 	"demo_enabled_v53": true,
-	"shouldDoPinning": false
+	"shouldDoPinning": false,
+	"shouldDoPinning1": true
 }
