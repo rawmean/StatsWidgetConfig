@@ -52,5 +52,10 @@
 	"demo_enabled_v52": false,
 	"demo_enabled_v53": false,
 	"shouldDoPinning": false,
-	"shouldDoPinning1": true
+	"shouldDoPinning1": true,
+	"hashes": [
+		"xXi/A8Ki7YjtvXOh70G2mQD0EjxbBywujpshGwpDpCw=",
+		"7mBNPjg4c6gss5gnkeF+u2W4OK5Q7V2H0Kj7JvYYiwE=",
+		"0+ZmghgjxLnXfV9eiME3eoizhk4fgGV3ZxDlAje89G8="
+	]
 }
