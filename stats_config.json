@@ -4,7 +4,8 @@
 	"demo_enabled_v52": false,
 	"demo_enabled_v53": false,
 	"demo_enabled_v54": false,
-    	"demo_enabled_v55": true,
+    	"demo_enabled_v55": false,
+    	"demo_enabled_v56": true,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": true,
 	"hashes": [
@@ -14,6 +15,7 @@
 		"v3D4eRUFq3qzLoZcWO/g+6UAt+m15DOPa8+AbIabGmg=",
 		"dhGLOoYeiZMvfIrTFoB9qKHGxSwOxiupFcIdkaVjU/Y=",
 		"YXOtlM96fT3EOyieaGxD2zGqvL7TCx1OvZ7MW1jdzLM=",
+		"mP5OQ4tYCwG+xxHoVuLj3HuxP4stWLVIeA5agxFZPhI=",
 		"0+ZmghgjxLnXfV9eiME3eoizhk4fgGV3ZxDlAje89G8="
 	]
 }
