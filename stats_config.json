@@ -7,9 +7,9 @@
 	"demo_enabled_v55": false,
  	"demo_enabled_v56": false,
 	"demo_enabled_v57": false,
-		"demo_enabled_v58": true,
+	"demo_enabled_v58": true,
 	"shouldDoPinning": false,
-	"shouldDoPinning1": true,
+	"shouldDoPinning1": false,
 	"hashes": [
 		"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 		"xXi/A8Ki7YjtvXOh70G2mQD0EjxbBywujpshGwpDpCw=",
@@ -21,6 +21,9 @@
 		"ljjNvA1IjJo65ghjReWjLjd4oc0Iizt9jRXMvDz17mc=",
 		"kOoMtxyo9aWZydepO5D4c+Cc1qkIpiD2n7QIrFBKY0g=",
 		"komn6BL6e1LuaXeerqgjSxREWsAJJavZSVu4PX4BQew=",
+		"AMHyWm8uJKYL0Vw/F+hWQ8QCchLe5OWBnuJLW4UlRSQ=",
+		"komn6BL6e1LuaXeerqgjSxREWsAJJavZSVu4PX4BQew=",
+		"CiV0rj+EqmAk7WJsdIFG8j+bBQABxWtJnj+Ij0BnDMA=",
 		"0+ZmghgjxLnXfV9eiME3eoizhk4fgGV3ZxDlAje89G8="
 	]
 }
