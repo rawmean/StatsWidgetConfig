@@ -9,7 +9,8 @@
 	"demo_enabled_v57": false,
 	"demo_enabled_v58": false,
 	"demo_enabled_v59": false,
-	"demo_enabled_v60": true,
+	"demo_enabled_v60": false,
+		"demo_enabled_v61": true,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
