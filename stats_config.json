@@ -23,7 +23,7 @@
 	"demo_enabled_v71": false,
 	"demo_enabled_v72": false,
 	"demo_enabled_v73": false,
-	"demo_enabled_v74": true,
+	"demo_enabled_v74": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
