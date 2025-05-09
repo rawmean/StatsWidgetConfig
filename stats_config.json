@@ -30,7 +30,7 @@
 	"demo_enabled_v78": false,
 	"demo_enabled_v79": false,
 	"demo_enabled_v80": false,
-	"demo_enabled_v81": true,
+	"demo_enabled_v81": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
