@@ -43,6 +43,7 @@
 	"demo_enabled_v91": false,
 	"demo_enabled_v92": false,
 	"demo_enabled_v93": false,
+	"demo_enabled_v94": true,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
