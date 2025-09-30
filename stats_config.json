@@ -48,7 +48,7 @@
 	"demo_enabled_v96": false,
 	"demo_enabled_v97": false,
 	"demo_enabled_v98": false,
-	"demo_enabled_v99": true,
+	"demo_enabled_v99": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
