@@ -53,7 +53,7 @@
 	"demo_enabled_v101": false,
 	"demo_enabled_v102": false,
 	"demo_enabled_v103": false,
-	"demo_enabled_v104": true,
+	"demo_enabled_v104": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
