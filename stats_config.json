@@ -60,7 +60,7 @@
 	"demo_enabled_v108": false,
 	"demo_enabled_v109": false,
 	"demo_enabled_v110": false,
-	"demo_enabled_v111": true,
+	"demo_enabled_v111": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
