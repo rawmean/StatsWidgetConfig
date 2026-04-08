@@ -21,8 +21,9 @@
 	"demo_enabled_v109": false,
 	"demo_enabled_v110": false,
 	"demo_enabled_v111": false,
-	"demo_enabled_v112": flase,
-	"demo_enabled_v113": true,
+	"demo_enabled_v112": false,
+	"demo_enabled_v113": false,
+	"demo_enabled_v114": true,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
