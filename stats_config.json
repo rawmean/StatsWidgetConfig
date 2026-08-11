@@ -12,7 +12,7 @@
 	"demo_enabled_v121": false,
 	"demo_enabled_v122": false,
 	"demo_enabled_v123": false,
-	"demo_enabled_v124": fslse,
+	"demo_enabled_v124": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
