@@ -14,7 +14,7 @@
 	"demo_enabled_v123": false,
 	"demo_enabled_v124": false,
 	"demo_enabled_v125": false,
-	"demo_enabled_v126": true,
+	"demo_enabled_v126": false,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
