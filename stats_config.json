@@ -16,7 +16,8 @@
 	"demo_enabled_v125": false,
 	"demo_enabled_v126": false,
 	"demo_enabled_v127": false,
-	"demo_enabled_v128": true,
+	"demo_enabled_v128": false,
+	"demo_enabled_v129": true,
 	"shouldDoPinning": false,
 	"shouldDoPinning1": false,
 	"hashes": [
